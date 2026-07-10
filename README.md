@@ -3,7 +3,7 @@
 NetworkMaster to zaawansowane narzędzie do diagnostyki sieciowej, stworzone, aby uprościć zarządzanie infrastrukturą dla inżynierów i administratorów systemów.
 
 ## 🚀 Szybki start
-1. Sklonuj repozytorium: `git clone https://github.com/TWOJA_NAZWA/NetworkMaster.git`
+1. Sklonuj repozytorium: `git clone https://github.com/ZenoSoftwareDev/NetworkMaster.git`
 2. Zainstaluj zależności: `pip install -r requirements.txt`
 3. Uruchom program: `python src/main.py`
 
@@ -14,10 +14,7 @@ NetworkMaster to zaawansowane narzędzie do diagnostyki sieciowej, stworzone, ab
 * **Monitorowanie:** Dashboard w czasie rzeczywistym.
 
 ## ⚖️ Licencja
-Projekt udostępniony na licencji **GNU GPLv3**. Szczegóły znajdziesz w pliku [LICENSE.md](LICENSE.md).
-
-## 🤝 Jak pomóc?
-Tworzymy to narzędzie dla społeczności. Zapoznaj się z plikiem [CONTRIBUTING.md](CONTRIBUTING.md), jeśli chcesz zgłosić błąd lub dodać nową funkcjonalność.
+Projekt udostępniony na licencji **GNU GPLv3**. Szczegóły znajdziesz w pliku LICENSE.md.
 
 ---
 *Stworzone przez ZenoSoftware.Dev*
