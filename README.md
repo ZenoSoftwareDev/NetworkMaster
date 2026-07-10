@@ -9,7 +9,4 @@ NetworkMaster to narzędzie do diagnostyki sieciowej stworzone aby uprościć za
 * **Monitorowanie:** Dashboard w czasie rzeczywistym.
 
 ## ⚖️ Licencja
-Projekt udostępniony na licencji **GNU GPLv3**. Szczegóły znajdziesz w pliku LICENSE.md.
-
----
-*Stworzone przez ZenoSoftware.Dev*
+Projekt udostępniony na licencji **GNU GPLv3**. Szczegóły znajdziesz w pliku LICENSE.md
