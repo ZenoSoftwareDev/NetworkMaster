@@ -1,6 +1,6 @@
 # NetworkMaster
 
-NetworkMaster to zaawansowane narzędzie do diagnostyki sieciowej, stworzone, aby uprościć zarządzanie infrastrukturą dla inżynierów i administratorów systemów.
+NetworkMaster to narzędzie do diagnostyki sieciowej stworzone aby uprościć zarządzanie lokalną siecia.
 
 ## 🛠 Funkcje
 * **Diagnostyka:** Ping, Traceroute, DNS Benchmark.
